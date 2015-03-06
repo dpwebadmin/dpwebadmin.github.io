@@ -68,10 +68,8 @@ table {
 .advertisements td {
 	height: 200px;
 	width:400px;
-	border:1px solid black;
 }
 #ad {
-	border:2px solid black;
 	height: 250px;
 	width:300px;
 	margin: auto;
