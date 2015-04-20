@@ -1,8 +1,8 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429503214818">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429505494522">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="53918200" ref="index"/>
-    <file name="index.css" crc="95213797" ref="index"/>
+    <file name="index.css" crc="265434894" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="pennten_navbar">
@@ -33,26 +33,24 @@
     <file name="jquery.museoverlay.js" crc="276313855" ref="index"/>
     <file name="touchswipe.js" crc="325405309" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="521981321" ref="index"/>
-    <file name="ivy_soul-5.jpg" crc="39977579" ref="index"/>
+    <file name="shadrak_frimpong.jpg" crc="4088756423" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="ivy_soul-11.jpg" crc="4182426999" ref="index"/>
+    <file name="17137304482_79ccae457a_o.jpg" crc="115845941" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u287-4.png" crc="4034189750" ref="index"/>
-    <file name="u287-4_2x.png" crc="3979221332" ref="index"/>
-    <file name="u349-7.png" crc="3816535471" ref="index"/>
-    <file name="u349-7_2x.png" crc="490440377" ref="index"/>
-    <file name="ivy_soul.jpg" crc="3907167632" ref="index"/>
-    <file name="ivy_soul_2x.jpg" crc="3818477591" ref="index"/>
+    <file name="u287-6.png" crc="4267312407" ref="index"/>
+    <file name="u287-6_2x.png" crc="4087404340" ref="index"/>
+    <file name="u349-7.png" crc="16632228" ref="index"/>
+    <file name="u349-7_2x.png" crc="351419617" ref="index"/>
+    <file name="16952688009_4c9c0899ed_o.jpg" crc="417087007" ref="index"/>
+    <file name="16952688009_4c9c0899ed_o_2x.jpg" crc="203359152" ref="index"/>
     <file name="pasted svg 1011x101.svg" crc="328900673" ref="index"/>
     <file name="pasted svg 1011x101_poster_.png" crc="167098885" ref="index"/>
-    <file name="ivy_soul-10.jpg" crc="4049040287" ref="index"/>
-    <file name="ivy_soul-10_2x.jpg" crc="475788892" ref="index"/>
-    <file name="ivy_soul-4-edited.jpg" crc="269535968" ref="index"/>
+    <file name="quote.jpg" crc="460772409" ref="index"/>
     <file name="pasted svg 261x28.svg" crc="7317659" ref="index"/>
     <file name="pasted svg 261x28_poster_.png" crc="93061713" ref="index"/>
     <file name="pasted svg 104x105.svg" crc="491584563" ref="index"/>
@@ -64,5 +62,5 @@
     <file name="pasted svg 104x1054.svg" crc="57392129" ref="index"/>
     <file name="pasted svg 104x105_poster_4.png" crc="499556600" ref="index"/>
   </folder>
-  <file name="index.html" crc="3954981891" mt="1429503205419" redirect="true"/>
+  <file name="index.html" crc="3763396646" mt="1429505408484" redirect="true"/>
 </manifest>
