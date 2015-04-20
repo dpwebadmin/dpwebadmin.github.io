@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FD;
-	background-color: #7101D9;
+	color: #0000F7;
+	background-color: #2CB942;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.5500000000429px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -353,16 +352,16 @@
 	left: 121px;
 }
 
-#pu866-26
+#pu866-27
 {
 	width: 0.01px;
 	margin-left: 101px;
 	margin-top: 19px;
 }
 
-#u866-26
+#u866-27
 {
-	z-index: 60;
+	z-index: 56;
 	width: 530px;
 	min-height: 1283px;
 	background-color: transparent;
@@ -373,7 +372,20 @@
 	margin-right: -10000px;
 }
 
-.js #u339-23.ose_pre_init,.js #u265-24.ose_pre_init,.js #u866-26.ose_pre_init
+#u905
+{
+	float: right;
+	margin: 30px -161px 30px 30px;
+}
+
+#u900
+{
+	z-index: 65;
+	width: 406px;
+	background-color: transparent;
+}
+
+.js #u339-23.ose_pre_init,.js #u265-24.ose_pre_init,.js #u866-27.ose_pre_init
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -388,7 +400,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 453px;
+	margin-top: 1182px;
 	left: 668px;
 }
 
@@ -400,7 +412,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: -20px;
-	margin-top: 194px;
+	margin-top: 91px;
 	position: relative;
 }
 
@@ -427,14 +439,14 @@
 	left: 121px;
 }
 
-#pu851-27
+#pu851-26
 {
 	width: 0.01px;
 	margin-left: 101px;
 	margin-top: 29px;
 }
 
-#u851-27
+#u851-26
 {
 	z-index: 30;
 	width: 530px;
@@ -463,19 +475,6 @@
 	line-height: 28px;
 }
 
-#u893
-{
-	float: right;
-	margin: 30px -161px 30px 30px;
-}
-
-#u890
-{
-	z-index: 39;
-	width: 406px;
-	background-color: transparent;
-}
-
 #u852-6
 {
 	z-index: 106;
@@ -484,7 +483,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1013px;
+	margin-top: 690px;
 	left: 668px;
 }
 
@@ -504,7 +503,7 @@
 	color: #383838;
 }
 
-.js #u349-7.ose_pre_init,.js #u837.ose_pre_init,.js #u518-4.ose_pre_init,.js #u880.ose_pre_init,.js #u861-4.ose_pre_init,.js #u865-6.ose_pre_init,.js #u847-4.ose_pre_init,.js #u890.ose_pre_init,.js #u852-6.ose_pre_init
+.js #u349-7.ose_pre_init,.js #u837.ose_pre_init,.js #u518-4.ose_pre_init,.js #u880.ose_pre_init,.js #u861-4.ose_pre_init,.js #u900.ose_pre_init,.js #u865-6.ose_pre_init,.js #u847-4.ose_pre_init,.js #u852-6.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -518,7 +517,7 @@
 	height: 16px;
 	background-color: #000000;
 	margin-left: 617px;
-	margin-top: 30px;
+	margin-top: 3px;
 	position: relative;
 }
 
