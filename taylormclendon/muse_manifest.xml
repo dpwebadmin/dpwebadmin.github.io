@@ -1,28 +1,30 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429503214818">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429588232159">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="53918200" ref="index"/>
-    <file name="index.css" crc="95213797" ref="index"/>
+    <file name="index.css" crc="4192863482" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="pennten_navbar">
       <folder name="edge_includes">
-        <file name="edge.5.0.0.min.js" crc="430951529" mt="1429501145000"/>
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1429483632000"/>
       </folder>
       <folder name="images">
-        <file name="photos.png" crc="71726212" mt="1429501145000"/>
-        <file name="Poster.png" crc="40057339" mt="1429501145000"/>
-        <file name="back.svg" crc="479246227" mt="1429501145000"/>
-        <file name="background.svg" crc="380625964" mt="1429501145000"/>
-        <file name="home.svg" crc="3910397101" mt="1429501145000"/>
-        <file name="names.svg" crc="1216981" mt="1429501145000"/>
-        <file name="pennten_logo.svg" crc="419272398" mt="1429501145000"/>
-        <file name="pennten_logo2.svg" crc="419272398" mt="1429501145000"/>
-        <file name="pic.svg" crc="4098367804" mt="1429501145000"/>
-        <file name="shadow.svg" crc="37291981" mt="1429501145000"/>
+        <file name="photos.png" crc="71726212" mt="1429483632000"/>
+        <file name="Poster.png" crc="40057339" mt="1429483632000"/>
+        <file name="back.svg" crc="479246227" mt="1429483632000"/>
+        <file name="background.svg" crc="380625964" mt="1429483632000"/>
+        <file name="home.svg" crc="3910397101" mt="1429483632000"/>
+        <file name="names.svg" crc="1216981" mt="1429483632000"/>
+        <file name="pennten_logo.svg" crc="419272398" mt="1429483632000"/>
+        <file name="pennten_logo2.svg" crc="419272398" mt="1429483632000"/>
+        <file name="people.svg" crc="250955457" mt="1429483632000"/>
+        <file name="people2.svg" crc="446138076" mt="1429483632000"/>
+        <file name="pic.svg" crc="4098367804" mt="1429483632000"/>
+        <file name="shadow.svg" crc="37291981" mt="1429483632000"/>
       </folder>
-      <file name="pennten_navbar_edge.js" crc="300933666" mt="1429501145000"/>
-      <file name="pennten_navbar.html" crc="3966593836" mt="1429501145000"/>
+      <file name="pennten_navbar_edge.js" crc="278349101" mt="1429483632000"/>
+      <file name="pennten_navbar.html" crc="3966593836" mt="1429483632000"/>
     </folder>
   </folder>
   <folder name="scripts">
@@ -64,5 +66,5 @@
     <file name="pasted svg 104x1054.svg" crc="57392129" ref="index"/>
     <file name="pasted svg 104x105_poster_4.png" crc="499556600" ref="index"/>
   </folder>
-  <file name="index.html" crc="3954981891" mt="1429503205419" redirect="true"/>
+  <file name="index.html" crc="3869372460" mt="1429587968064" redirect="true"/>
 </manifest>
