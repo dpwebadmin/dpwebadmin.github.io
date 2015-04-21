@@ -28,7 +28,6 @@ body {
 	height:100%;
     background:url(Ariel.jpg);
   	background-size:cover;
-  	opacity: 0.4;
 }
 
 #box-taylor  {  
@@ -38,7 +37,6 @@ body {
 	height:100%;
     background:url(taylor.jpg);
   	background-size:cover;
-  	opacity: 0.4;
 }
 
 #box-seaon  {  
