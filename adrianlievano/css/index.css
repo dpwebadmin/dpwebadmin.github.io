@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #9285BF;
+	color: #0000F7;
+	background-color: #147677;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 7510px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -141,7 +141,7 @@
 
 #u715
 {
-	z-index: 137;
+	z-index: 129;
 	width: 238px;
 	height: 643px;
 	top: 0px;
@@ -172,7 +172,7 @@
 	vertical-align: top;
 	position: fixed;
 	top: 1153px;
-	left: 151px;
+	left: 54px;
 }
 
 #u339-33
@@ -349,25 +349,12 @@
 
 #u564
 {
-	z-index: 131;
+	z-index: 123;
 	width: 16px;
 	height: 16px;
 	background-color: #000000;
 	margin-left: 617px;
-	margin-top: 17px;
-	position: relative;
-}
-
-#u559-8
-{
-	z-index: 123;
-	width: 342px;
-	min-height: 62px;
-	background-color: transparent;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-	font-style: italic;
-	margin-left: 101px;
-	margin-top: 147px;
+	margin-top: 37px;
 	position: relative;
 }
 
@@ -392,7 +379,7 @@
 
 #u565
 {
-	z-index: 132;
+	z-index: 124;
 	overflow: hidden;
 	position: relative;
 	width: 324px;
@@ -403,7 +390,7 @@
 
 #u567
 {
-	z-index: 133;
+	z-index: 125;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -414,7 +401,7 @@
 
 #u569
 {
-	z-index: 134;
+	z-index: 126;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -425,7 +412,7 @@
 
 #u571
 {
-	z-index: 135;
+	z-index: 127;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -436,7 +423,7 @@
 
 #u573
 {
-	z-index: 136;
+	z-index: 128;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -449,7 +436,7 @@
 {
 	z-index: 2;
 	min-height: 86px;
-	margin-top: 41px;
+	margin-top: 87px;
 }
 
 body

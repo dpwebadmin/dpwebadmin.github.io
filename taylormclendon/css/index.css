@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #673749;
+	color: #0000F2;
+	background-color: #610FCF;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 12402.750000000011px;
+	min-height: 12285.750000000015px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -28,6 +28,21 @@
 	margin-top: -36px;
 	margin-bottom: -191px;
 	width: 0.01px;
+}
+
+#u715
+{
+	z-index: 221;
+	width: 238px;
+	height: 643px;
+	top: 0px;
+	left: 0px;
+}
+
+#U719_animation
+{
+	width: 238px;
+	height: 643px;
 }
 
 #slideshowu266
@@ -140,21 +155,6 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u715
-{
-	z-index: 228;
-	width: 238px;
-	height: 643px;
-	top: 0px;
-	left: 0px;
-}
-
-#U719_animation
-{
-	width: 238px;
-	height: 643px;
-}
-
 #u287-4
 {
 	z-index: 52;
@@ -166,19 +166,19 @@
 	position: relative;
 }
 
-#u349-7
+#u349-9
 {
 	z-index: 172;
 	display: block;
 	vertical-align: top;
 	position: fixed;
 	top: 1153px;
-	left: 151px;
+	left: 26px;
 }
 
 #u339-11
 {
-	z-index: 179;
+	z-index: 181;
 	width: 530px;
 	min-height: 360px;
 	background-color: transparent;
@@ -203,7 +203,7 @@
 
 #u412
 {
-	z-index: 190;
+	z-index: 192;
 	width: 342px;
 	background-color: transparent;
 	position: fixed;
@@ -213,7 +213,7 @@
 
 #u519
 {
-	z-index: 192;
+	z-index: 194;
 	width: 663px;
 	border-style: none;
 	border-color: transparent;
@@ -225,7 +225,7 @@
 
 #u342
 {
-	z-index: 193;
+	z-index: 195;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 26px;
@@ -233,7 +233,7 @@
 
 #u518-6
 {
-	z-index: 194;
+	z-index: 196;
 	width: 542px;
 	min-height: 177px;
 	background-color: transparent;
@@ -285,7 +285,7 @@
 
 #u520
 {
-	z-index: 200;
+	z-index: 202;
 	width: 663px;
 	border-style: none;
 	border-color: transparent;
@@ -297,14 +297,14 @@
 
 #u522
 {
-	z-index: 201;
+	z-index: 203;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u521-4
 {
-	z-index: 202;
+	z-index: 204;
 	width: 542px;
 	min-height: 58px;
 	background-color: transparent;
@@ -375,7 +375,7 @@
 
 #u531
 {
-	z-index: 206;
+	z-index: 208;
 	height: 788px;
 	background: transparent url("../images/taylor_quote.jpg") no-repeat center top;
 	background-size: cover;
@@ -383,14 +383,14 @@
 
 #u531-bw
 {
-	z-index: 206;
+	z-index: 208;
 	margin-top: 220px;
 	height: 788px;
 }
 
 #u553
 {
-	z-index: 207;
+	z-index: 209;
 	width: 792px;
 	border-style: none;
 	border-color: transparent;
@@ -402,14 +402,14 @@
 
 #u554
 {
-	z-index: 208;
+	z-index: 210;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u556-4
 {
-	z-index: 209;
+	z-index: 211;
 	width: 671px;
 	min-height: 76px;
 	background-color: transparent;
@@ -423,7 +423,7 @@
 	left: 121px;
 }
 
-.js #u349-7.ose_pre_init,.js #u412.ose_pre_init,.js #u518-6.ose_pre_init,.js #u521-4.ose_pre_init,.js #u288-6.ose_pre_init,.js #u556-4.ose_pre_init
+.js #u349-9.ose_pre_init,.js #u412.ose_pre_init,.js #u518-6.ose_pre_init,.js #u521-4.ose_pre_init,.js #u288-6.ose_pre_init,.js #u556-4.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -462,60 +462,26 @@
 
 #u564
 {
-	z-index: 222;
+	z-index: 215;
 	width: 16px;
 	height: 16px;
 	background-color: #000000;
 	margin-left: 617px;
-	margin-top: 2px;
+	margin-top: 22px;
 	position: relative;
-}
-
-#u559-8
-{
-	z-index: 214;
-	width: 342px;
-	min-height: 62px;
-	background-color: transparent;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-	font-style: italic;
-	margin-left: 103px;
-	margin-top: 169px;
-	position: relative;
-}
-
-#pu590
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 2px;
 }
 
 #u590
 {
 	z-index: 2;
-	height: 242px;
+	min-height: 87px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #771115;
-}
-
-#u590-bw
-{
-	z-index: 2;
-	margin-top: 31px;
-	height: 242px;
-}
-
-#u558
-{
-	z-index: 213;
-	min-height: 118px;
-	background-color: transparent;
 	padding-bottom: 155px;
 }
 
-#u558_align_to_page
+#u590_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -526,63 +492,64 @@
 
 #u565
 {
-	z-index: 223;
+	z-index: 216;
 	overflow: hidden;
 	position: relative;
 	width: 324px;
 	margin-right: -10000px;
-	margin-top: 58px;
+	margin-top: 27px;
 	left: 120px;
 }
 
 #u567
 {
-	z-index: 224;
+	z-index: 217;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 43px;
 	left: 940px;
 }
 
 #u569
 {
-	z-index: 225;
+	z-index: 218;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 43px;
 	left: 973px;
 }
 
 #u571
 {
-	z-index: 226;
+	z-index: 219;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 43px;
 	left: 1006px;
 }
 
 #u573
 {
-	z-index: 227;
+	z-index: 220;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 43px;
 	left: 1039px;
 }
 
-#u558-bw
+#u590-bw
 {
-	z-index: 213;
-	min-height: 118px;
+	z-index: 2;
+	min-height: 87px;
+	margin-top: 127px;
 }
 
 body

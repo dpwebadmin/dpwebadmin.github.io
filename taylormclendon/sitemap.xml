@@ -121,18 +121,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thedp.com/pennten/taylormclendon/images/u349-7.png</loc>
-    <lastmod>2015-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thedp.com/pennten/taylormclendon/images/u349-7_2x.png</loc>
-    <lastmod>2015-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thedp.com/pennten/taylormclendon/images/ivy_soul.jpg</loc>
     <lastmod>2015-04-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +206,18 @@
   </url>
   <url>
     <loc>http://thedp.com/pennten/taylormclendon/images/pasted%20svg%20104x105_poster_4.png</loc>
+    <lastmod>2015-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thedp.com/pennten/taylormclendon/images/u349-9.png</loc>
+    <lastmod>2015-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thedp.com/pennten/taylormclendon/images/u349-9_2x.png</loc>
     <lastmod>2015-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
