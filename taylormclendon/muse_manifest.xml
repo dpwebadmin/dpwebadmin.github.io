@@ -1,8 +1,8 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429588232159">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429591509274">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="53918200" ref="index"/>
-    <file name="index.css" crc="4192863482" ref="index"/>
+    <file name="index.css" crc="3831969609" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="pennten_navbar">
@@ -52,9 +52,7 @@
     <file name="ivy_soul_2x.jpg" crc="3818477591" ref="index"/>
     <file name="pasted svg 1011x101.svg" crc="328900673" ref="index"/>
     <file name="pasted svg 1011x101_poster_.png" crc="167098885" ref="index"/>
-    <file name="ivy_soul-10.jpg" crc="4049040287" ref="index"/>
-    <file name="ivy_soul-10_2x.jpg" crc="475788892" ref="index"/>
-    <file name="ivy_soul-4-edited.jpg" crc="269535968" ref="index"/>
+    <file name="taylor_quote.jpg" crc="4200694341" ref="index"/>
     <file name="pasted svg 261x28.svg" crc="7317659" ref="index"/>
     <file name="pasted svg 261x28_poster_.png" crc="93061713" ref="index"/>
     <file name="pasted svg 104x105.svg" crc="491584563" ref="index"/>
@@ -66,5 +64,5 @@
     <file name="pasted svg 104x1054.svg" crc="57392129" ref="index"/>
     <file name="pasted svg 104x105_poster_4.png" crc="499556600" ref="index"/>
   </folder>
-  <file name="index.html" crc="3869372460" mt="1429587968064" redirect="true"/>
+  <file name="index.html" crc="3962857453" mt="1429591454432" redirect="true"/>
 </manifest>
