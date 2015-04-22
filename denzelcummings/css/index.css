@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #188DA0;
+	color: #000009;
+	background-color: #18AC06;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 12453.60000000004px;
+	min-height: 12453.70000000005px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -142,7 +142,7 @@
 
 #u791
 {
-	z-index: 185;
+	z-index: 177;
 	width: 238px;
 	height: 643px;
 	top: 0px;
@@ -173,7 +173,7 @@
 	vertical-align: top;
 	position: fixed;
 	top: 1153px;
-	left: 151px;
+	left: 51px;
 }
 
 #pu652-17
@@ -209,7 +209,7 @@
 
 #u719
 {
-	z-index: 183;
+	z-index: 175;
 	width: 354px;
 	background-color: transparent;
 	position: relative;
@@ -263,7 +263,7 @@
 	font-size: 18px;
 	color: #1E1E1E;
 	margin-left: 103px;
-	margin-top: 77px;
+	margin-top: 47px;
 	position: relative;
 }
 
@@ -291,7 +291,7 @@
 #u747-bw
 {
 	z-index: 161;
-	margin-top: 137px;
+	margin-top: 117px;
 	height: 788px;
 }
 
@@ -303,7 +303,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: -18px;
-	margin-top: 138px;
+	margin-top: 78px;
 	position: relative;
 }
 
@@ -489,31 +489,18 @@
 	font-size: 18px;
 	color: #1E1E1E;
 	margin-left: 103px;
-	margin-top: 116px;
+	margin-top: 76px;
 	position: relative;
 }
 
 #u641
 {
-	z-index: 177;
+	z-index: 169;
 	width: 16px;
 	height: 16px;
 	background-color: #000000;
 	margin-left: 617px;
-	margin-top: 13px;
-	position: relative;
-}
-
-#u597-8
-{
-	z-index: 169;
-	width: 342px;
-	min-height: 62px;
-	background-color: transparent;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-	font-style: italic;
-	margin-left: 103px;
-	margin-top: 109px;
+	margin-top: 53px;
 	position: relative;
 }
 
@@ -559,7 +546,7 @@
 
 #u598
 {
-	z-index: 178;
+	z-index: 170;
 	overflow: hidden;
 	position: relative;
 	width: 324px;
@@ -570,7 +557,7 @@
 
 #u642
 {
-	z-index: 179;
+	z-index: 171;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -581,7 +568,7 @@
 
 #u653
 {
-	z-index: 180;
+	z-index: 172;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -592,7 +579,7 @@
 
 #u629
 {
-	z-index: 181;
+	z-index: 173;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
@@ -603,7 +590,7 @@
 
 #u650
 {
-	z-index: 182;
+	z-index: 174;
 	overflow: hidden;
 	position: relative;
 	width: 27px;
