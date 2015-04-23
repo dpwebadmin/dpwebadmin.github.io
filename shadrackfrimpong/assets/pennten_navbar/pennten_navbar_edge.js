@@ -106,7 +106,7 @@ Symbol.bindElementAction(compId,symbolName,"${hit}","mouseout",function(sym,e){s
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${hitCopy9}","click",function(sym,e){window.open("http://thedp.com/pennten/christopheryao","Christopher Yao");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${hitCopy2}","click",function(sym,e){window.open("http://thedp.com/pennten/danielfine","Allyson Ahlstrom");});
+Symbol.bindElementAction(compId,symbolName,"${hitCopy2}","click",function(sym,e){window.open("http://thedp.com/pennten/ahlstromallyson","Allyson Ahlstrom");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${hitCopy4}","click",function(sym,e){window.open("http://thedp.com/pennten/denzelcummings","Denzel Cummings");});
 //Edge binding end
