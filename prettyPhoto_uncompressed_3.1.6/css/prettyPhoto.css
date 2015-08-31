@@ -248,6 +248,33 @@
 	div.facebook .pp_bottom .pp_right { background: url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat; } /* Bottom right corner */
 
 
+
+  a.hovertext {
+    position: relative;
+    width: 255px;
+    text-decoration: none !important;
+    text-align: center;
+  }
+  a.hovertext:after {
+    content: attr(title);
+    position: absolute;
+    left: 0;
+    bottom: 6;
+    padding: 0.5em 10px;
+    width: 100%px;
+    background: rgba(0,0,0,0.8);
+    text-decoration: none !important;
+    color: #fff;
+    opacity: 0;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+  }
+  a.hovertext:hover:after, a.hovertext:focus:after {
+    opacity: 1.0;
+  }
+
 /* ------------------------------------------------------------------------
 	DO NOT CHANGE
 ------------------------------------------------------------------------- */
