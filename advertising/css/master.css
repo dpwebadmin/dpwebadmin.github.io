@@ -14,11 +14,24 @@ nav {
     padding-top: 13px;
 }
 
+.nine .one-half { /* For Tables */
+    margin-left: 2%;
+}
+
+.inline {
+    display: inline;
+}
+
+.text-highlight {
+    font-weight: 400;
+    color: #8d0101;
+}
+
 .logo-area {
     background-color: #8d0101;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
-    color: white;
+    color: #F1F1F1;
     height: 50px;
     padding-top: 7px;
 }
@@ -26,4 +39,44 @@ nav {
 .logo-area img {
     vertical-align: middle;
     width: 50px;
+}
+
+.total {
+    border-top: 1px solid #E1E1E1;
+    margin-top: 31rem;
+    padding-top: 2rem;
+}
+
+.dp-thumbs img {
+    width: 80%;
+    position: relative;
+    box-shadow: 0px 0px 15px #aaa;
+}
+
+.dp-thumbs .thumb:not(:first-child) {
+    top: -175px;
+}
+
+.dp-thumbs .thumb-1 {
+    transform: rotate(16deg);
+}
+
+.dp-thumbs .thumb-2 {
+    transform: rotate(18deg);
+}
+
+.dp-thumbs .thumb-3 {
+    top: -350px !important;
+    transform: rotate(-12deg);
+}
+
+.dp-thumbs .thumb-4 {
+    top: -475px !important;
+    transform: rotate(-15deg);
+}
+
+.dp-thumbs .thumb-5 {
+    top: -600px !important;
+    transform: rotate(-3deg);
+
 }
