@@ -4,30 +4,41 @@
         <meta charset="utf-8">
         <title>Advertise | The Daily Pennsylvanian</title>
         
-        <link rel="stylesheet" href="css/master.css">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/skeleton.css">
+        <link rel="stylesheet" href="css/master.css">
         
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="container">
             <header class="row">
-                <div class="four columns logo-area">
+                <div class="three columns logo-area">
                     <center>
                         <i class="fa fa-chevron-left"></i>
                         <img src="img/DPLogo.png" alt="DP Logo"/>
                         Return to The DP
                     </center>
                 </div>
-                <nav class="eight columns">
+                <nav class="nine columns">
                     <center>
-                        Calendar |
-                        Submission |
-                        Policies |
-                        Sizes |
-                        Rates |
-                        Readership &amp; Publications
+                        <input id="tab0" type="radio" name="tabs" checked>
+                        <label for="tab0">Readership &amp; Publications</label>
+                        
+                        <input id="tab1" type="radio" name="tabs">
+                        <label for="tab1">Calendar</label>
+  
+                        <input id="tab2" type="radio" name="tabs">
+                        <label for="tab2">Submission</label>
+  
+                        <input id="tab3" type="radio" name="tabs">
+                        <label for="tab3">Policies</label>
+  
+                        <input id="tab4" type="radio" name="tabs">
+                        <label for="tab4">Sizes</label>
+                        
+                        <input id="tab5" type="radio" name="tabs">
+                        <label for="tab5">Rates</label>
+
                     </center>
                 </nav>
             </header>
@@ -78,7 +89,7 @@
                             <thead>
                                 <tr>
                                     <th><b>Employees</b></th>
-                                    <th>Male</th>
+                                    <th></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -104,6 +115,26 @@
                         <b>Total Penn Community:</b> <h2 class="inline text-highlight">42,134</h2>
                     </center>
                     <hr>
+                    
+                    <h3>Readership</h3>
+                    <ul>
+                        <li><b><h3 class="inline text-highlight">23,144</h3> Penn students, faculty, and staff</b> read The Daily Pennsylvanian weekly. 7,000 copies of the newspaper are distributed daily</li>
+                        <li>The Daily Pennsylvanian is published <b>Monday through Thursday mornings</b> when Penn classes are in session, 116 days each year.</li>
+                        <li><b>Distributed free at <h3 class="inline text-highlight">80+</h3></b> campus-area high-traffi c locations such as dorms, dining halls, libraries, classrooms, and administrative buildings.</li>
+                    </ul>
+                    
+                    <h3>About DP Readers</h3>
+                    Spring 2014 and 2015 market research studies of college students nationally, and of Penn students and faculty/staff locally, show:
+                    <ul>
+                        <li>76% of Penn undergraduates, and more than 50% of Penn community members, read the newspaper at least once a week.</li>
+                        <li>The University of Pennsylvania is Philadelphia’s largest non-government employer — and more than 7,000 members of Penn’s faculty and staff read the newspaper each week.</li>
+                        <li>DP readers travel to Center City more than 100,000 times per month.</li>
+                        <li>Every year, DP readers spend $22 million on clothing, $8 million on computers and software-related products, $775,000 on salon services, and $4.5 million on furniture.</li>
+                        <li>Student DP readers’ monthly discretionary spending is $250 — 27% more than the national college student average of $197.</li>
+                        <li>Nearly 17,000 Penn students live in a house or apartment off-campus.</li>
+                        <li>n DP readers spend $82 million each year eating out; they dine out at sit-down restaurants more than 92,000 times per week.</li>
+                        <li>More than 52% of DP readers have access to cars for easy travel to all areas of Philadelphia, the suburbs, and beyond.</li>
+                    </ul>
                 </div>
                 <div class="three columns dp-thumbs">
                     <img src="img/thumbs/dpThumb1.jpeg" class="thumb thumb-1"/>
@@ -114,5 +145,8 @@
                 </div>
             </div>
         </div>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+        <script src="js/script.js" charset="utf-8"></script>
     </body>
 </html>
