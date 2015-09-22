@@ -28,3 +28,15 @@ var getRotationDegrees = function(obj) {
     } else { var angle = 0; }
     return (angle < 0) ? angle + 360 : angle;
 }
+
+// TODO: Cleanup
+$("input[name='tabs']").change(function(e){
+    $('#content0, #content1').hide();
+    var val = $(this).val();
+    console.log('#content'+val);
+    $('#content'+val).show();
+});
+
+$(window).ready(function() {
+    $('#content1').hide();
+})
