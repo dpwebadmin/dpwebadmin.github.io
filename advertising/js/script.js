@@ -55,40 +55,36 @@ $(window).ready(function() {
 })
 
 //Routing
-routie('readership', function() {
-    hideAll();
-    $('#content0').show();
-    document.getElementById("tab0").checked = true;
+routie({
+        'readership': function() {
+            hideAll();
+            $('#content0').show();
+            document.getElementById("tab0").checked = true;
+        },
+        'publications': function() {
+            hideAll();
+            $('#content1').show();
+            document.getElementById("tab1").checked = true;
+        },
+        'submit': function() {
+            hideAll();
+            $('#content2').show();
+            document.getElementById("tab2").checked = true;
+        },
+        'policies': function() {
+            hideAll();
+            $('#content3').show();
+            document.getElementById("tab3").checked = true;
+        },
+        'sizes': function() {
+            hideAll();
+            $('#content4').show();
+            document.getElementById("tab4").checked = true;
+        },
+        'rates': function() {
+            hideAll();
+            $('#content5').show();
+            document.getElementById("tab5").checked = true;
+        }
+        
 });
-
-routie('publications', function() {
-    hideAll();
-    $('#content1').show();
-    document.getElementById("tab1").checked = true;
-});
-
-routie('submit', function() {
-    hideAll();
-    $('#content2').show();
-    document.getElementById("tab2").checked = true;
-});
-
-routie('policies', function() {
-    hideAll();
-    $('#content3').show();
-    document.getElementById("tab3").checked = true;
-});
-
-routie('sizes', function() {
-    hideAll();
-    $('#content4').show();
-    document.getElementById("tab4").checked = true;
-});
-
-routie('rates', function() {
-    hideAll();
-    $('#content5').show();
-    document.getElementById("tab5").checked = true;
-});
-
-
