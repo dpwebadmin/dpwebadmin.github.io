@@ -52,39 +52,38 @@ $("input[name='tabs']").change(function(e){
 
 $(window).ready(function() {
     $('#content1, #content2, #content3, #content4, #content5').hide();
+    //Routing
+    routie({
+            'readership': function() {
+                hideAll();
+                $('#content0').show();
+                document.getElementById("tab0").checked = true;
+            },
+            'publications': function() {
+                hideAll();
+                $('#content1').show();
+                document.getElementById("tab1").checked = true;
+            },
+            'submit': function() {
+                hideAll();
+                $('#content2').show();
+                document.getElementById("tab2").checked = true;
+            },
+            'policies': function() {
+                hideAll();
+                $('#content3').show();
+                document.getElementById("tab3").checked = true;
+            },
+            'sizes': function() {
+                hideAll();
+                $('#content4').show();
+                document.getElementById("tab4").checked = true;
+            },
+            'rates': function() {
+                hideAll();
+                $('#content5').show();
+                document.getElementById("tab5").checked = true;
+            }
+            
+    });
 })
-
-//Routing
-routie({
-        'readership': function() {
-            hideAll();
-            $('#content0').show();
-            document.getElementById("tab0").checked = true;
-        },
-        'publications': function() {
-            hideAll();
-            $('#content1').show();
-            document.getElementById("tab1").checked = true;
-        },
-        'submit': function() {
-            hideAll();
-            $('#content2').show();
-            document.getElementById("tab2").checked = true;
-        },
-        'policies': function() {
-            hideAll();
-            $('#content3').show();
-            document.getElementById("tab3").checked = true;
-        },
-        'sizes': function() {
-            hideAll();
-            $('#content4').show();
-            document.getElementById("tab4").checked = true;
-        },
-        'rates': function() {
-            hideAll();
-            $('#content5').show();
-            document.getElementById("tab5").checked = true;
-        }
-        
-});
