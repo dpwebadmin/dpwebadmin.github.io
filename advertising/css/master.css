@@ -105,7 +105,8 @@ input:checked + label {
     color: #F1F1F1;
     height: 50px;
     padding-top: 7px;
-    transition: 200ms all ease;
+    -webkit-transition: 200ms all ease;
+            transition: 200ms all ease;
 }
 
 .logo-area img {
@@ -130,26 +131,36 @@ input:checked + label {
 }
 
 .dp-thumbs .thumb-1 {
-    transform: rotate(2deg);
+    -webkit-transform: rotate(2deg);
+        -ms-transform: rotate(2deg);
+            transform: rotate(2deg);
 }
 
 .dp-thumbs .thumb-2 {
-    transform: rotate(4deg);
+    -webkit-transform: rotate(4deg);
+        -ms-transform: rotate(4deg);
+            transform: rotate(4deg);
 }
 
 .dp-thumbs .thumb-3 {
     top: -350px !important;
-    transform: rotate(-6deg);
+    -webkit-transform: rotate(-6deg);
+        -ms-transform: rotate(-6deg);
+            transform: rotate(-6deg);
 }
 
 .dp-thumbs .thumb-4 {
     top: -475px !important;
-    transform: rotate(2deg);
+    -webkit-transform: rotate(2deg);
+        -ms-transform: rotate(2deg);
+            transform: rotate(2deg);
 }
 
 .dp-thumbs .thumb-5 {
     top: -600px !important;
-    transform: rotate(3deg);
+    -webkit-transform: rotate(3deg);
+        -ms-transform: rotate(3deg);
+            transform: rotate(3deg);
 
 }
 
@@ -159,12 +170,4 @@ input:checked + label {
 
 .img-responsive {
     width: 100%;
-}
-
-.broad {
-    margin-top: 10em;
-}
-
-.tab {
-    margin-top: 17em;
 }
