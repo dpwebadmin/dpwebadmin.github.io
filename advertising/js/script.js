@@ -46,40 +46,44 @@ var hideAll = function(){
 $("input[name='tabs']").change(function(e){
     hideAll();
     var val = $(this).val();
-    console.log('#content'+val);
+    var tabVal = 'label[for="tab' + val + '"]';
     $('#content'+val).show();
+    var tabStr = 'label[for="tab' + val;
+    var label = $(tabStr + '"]')[0];
+    console.log(label);
+    window.history.pushState("object or string", "Title", "#"+label.innerHTML);
 });
 
 $(window).ready(function() {
     $('#content1, #content2, #content3, #content4, #content5').hide();
     //Routing
     routie({
-            'readership': function() {
+            'Readership': function() {
                 hideAll();
                 $('#content0').show();
                 document.getElementById("tab0").checked = true;
             },
-            'publications': function() {
+            'Publications': function() {
                 hideAll();
                 $('#content1').show();
                 document.getElementById("tab1").checked = true;
             },
-            'submit': function() {
+            'Submission': function() {
                 hideAll();
                 $('#content2').show();
                 document.getElementById("tab2").checked = true;
             },
-            'policies': function() {
+            'Policies': function() {
                 hideAll();
                 $('#content3').show();
                 document.getElementById("tab3").checked = true;
             },
-            'sizes': function() {
+            'Sizes': function() {
                 hideAll();
                 $('#content4').show();
                 document.getElementById("tab4").checked = true;
             },
-            'rates': function() {
+            'Rates': function() {
                 hideAll();
                 $('#content5').show();
                 document.getElementById("tab5").checked = true;
