@@ -12,6 +12,15 @@ header {
     margin-bottom: 35px;
 }
 
+footer {
+  margin-bottom: 35px;
+  color: #555;
+}
+
+footer a {
+  color: #0FA0CE;
+}
+
 .logo-area:hover {
     color: white;
     position: relative;
@@ -120,6 +129,10 @@ input:checked + label {
     padding-top: 2rem;
 }
 
+.dp-thumbs {
+  margin-left: 7%;
+}
+
 .dp-thumbs img {
     width: 80%;
     position: relative;
@@ -164,10 +177,18 @@ input:checked + label {
 
 }
 
+.dp-text-1 {
+  margin-left: -4% !important;
+}
+
 .shaddow {
     box-shadow: 0px 0px 15px #aaa;
 }
 
 .img-responsive {
     width: 100%;
+}
+
+.nine.push-left {
+  margin-left: 25px !important;
 }
