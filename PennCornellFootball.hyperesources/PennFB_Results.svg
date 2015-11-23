@@ -37,31 +37,62 @@
 <text transform="matrix(1 0 0 1 42.4941 497.4502)"><tspan x="0" y="0" font-family="'AbrilFatface-Regular'" font-size="16">Villanova</tspan><tspan x="0" y="37.2" font-family="'Futura-CondensedMedium'" font-size="15">24 - 13 </tspan><tspan x="36.826" y="37.2" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="15">(W)</tspan></text>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 25.5762 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Dartmouth</tspan><tspan x="13.589" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">41 - 20 </tspan><tspan x="62.69" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+		<text transform="matrix(1 0 0 1 540.9229 141.4751)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Fordham</tspan><tspan x="6.489" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 45 </tspan><tspan x="55.591" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 442.9453 254.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Fordham</tspan><tspan x="6.489" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 45 </tspan><tspan x="55.591" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+		<g>
+			<text transform="matrix(1 0 0 1 25.1152 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Dartmouth</tspan><tspan x="13.589" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">41 - 20 </tspan><tspan x="62.69" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 145.8179 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Columbia</tspan><tspan x="11.143" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 7 </tspan><tspan x="51.963" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 266.9717 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Yale</tspan><tspan x="-16.328" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 20 </tspan><tspan x="32.773" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 349.4419 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Brown</tspan><tspan x="-7.461" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 28 </tspan><tspan x="41.64" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 433.0322 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Princeton</tspan><tspan x="5.293" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">26 - 23 </tspan><tspan x="54.395" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 543.3154 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Harvard</tspan><tspan x="1.479" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">35 - 25 </tspan><tspan x="50.581" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 652.3887 254.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Cornell</tspan><tspan x="-3.594" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 21 </tspan><tspan x="45.508" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+		</g>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 146.2788 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Columbia</tspan><tspan x="11.143" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 7 </tspan><tspan x="51.963" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 267.4326 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Yale</tspan><tspan x="-16.328" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 20 </tspan><tspan x="32.773" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 349.9028 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Brown</tspan><tspan x="-7.461" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 28 </tspan><tspan x="41.64" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 433.4932 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Princeton</tspan><tspan x="5.293" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">26 - 23 </tspan><tspan x="54.395" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 543.7764 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Harvard</tspan><tspan x="1.479" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">35 - 25 </tspan><tspan x="50.581" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 652.8496 151.7505)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Cornell</tspan><tspan x="-3.594" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 21 </tspan><tspan x="45.508" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	</g>
-	<text transform="matrix(1 0 0 1 241.0049 254.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Lehigh</tspan><tspan x="-4.321" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 21 </tspan><tspan x="44.78" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
-	<text transform="matrix(1 0 0 1 329.6641 254.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Villanova</tspan><tspan x="6.396" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">24 - 13 </tspan><tspan x="55.498" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
-	<text transform="matrix(1 0 0 1 110.896 75.8003)" fill="#FFFFFF" font-family="'AbrilFatface-Regular'" font-size="72">GAME RESULTS</text>
+	<text transform="matrix(1 0 0 1 159.7588 141.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Lehigh</tspan><tspan x="-4.321" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 21 </tspan><tspan x="44.78" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+	<text transform="matrix(1 0 0 1 335.584 141.4746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Villanova</tspan><tspan x="6.396" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">24 - 13 </tspan><tspan x="55.498" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	<text transform="matrix(1 0 0 1 110.4351 73.5249)" fill="#FFFFFF" font-family="'AbrilFatface-Regular'" font-size="72">GAME RESULTS</text>
 </g>
+<g>
+	<text transform="matrix(1 0 0 1 1985.3848 350.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Fordham</tspan><tspan x="6.489" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 45 </tspan><tspan x="55.591" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 1558.5771 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Dartmouth</tspan><tspan x="13.589" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">41 - 20 </tspan><tspan x="62.69" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1679.2793 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Columbia</tspan><tspan x="11.143" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 7 </tspan><tspan x="51.963" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1800.4336 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Yale</tspan><tspan x="-16.328" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 20 </tspan><tspan x="32.773" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1882.9043 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Brown</tspan><tspan x="-7.461" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">48 - 28 </tspan><tspan x="41.641" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1966.4941 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Princeton</tspan><tspan x="5.293" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">26 - 23 </tspan><tspan x="54.395" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2076.7773 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Harvard</tspan><tspan x="1.479" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">35 - 25 </tspan><tspan x="50.581" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2185.8506 463.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Cornell</tspan><tspan x="-3.594" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">34 - 21 </tspan><tspan x="45.508" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1776.5908 350.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Lehigh</tspan><tspan x="-4.321" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">42 - 21 </tspan><tspan x="44.78" y="48" fill="#F14950" font-family="'Futura-CondensedMedium'" font-size="20">(L)</tspan></text>
+<text transform="matrix(1 0 0 1 1869.0459 350.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="20">Villanova</tspan><tspan x="6.396" y="48" fill="#FFFFFF" font-family="'Futura-CondensedMedium'" font-size="20">24 - 13 </tspan><tspan x="55.498" y="48" fill="#33B874" font-family="'Futura-CondensedMedium'" font-size="20">(W)</tspan></text>
+<text transform="matrix(1 0 0 1 1643.8975 282.7998)" fill="#FFFFFF" font-family="'AbrilFatface-Regular'" font-size="72">GAME RESULTS</text>
 </svg>
